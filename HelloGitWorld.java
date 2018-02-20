@@ -3,5 +3,6 @@ public class HelloGitWorld{
 		System.out.println("Git Test");
 		System.out.println("Git Remote Test");
 		System.out.println("Git Local Modifying");
+		System.out.println("Git Test Modifying");
 	}	
 }
